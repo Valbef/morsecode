@@ -97,9 +97,10 @@ def traducir_desde_morse(morse):
 
 
 def main():
-    print("=" * 50)
-    print("    TRADUCTOR BIDIRECCIONAL MORSE")
-    print("=" * 50)
+    print("===============================")
+    print(" TRADUCTOR BIDIRECCIONAL MORSE")
+    print(" By:Valbef              v1.0.0")
+    print("===============================")
 
     while True:
         print("\nSelecciona una opción:")
